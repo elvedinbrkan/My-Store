@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "dccodCsDwxE3rP/qaHCT+8FRYiPPZevZzmX83OwKJ47RRdOUZXY06NW06Ee+imek9gJ5set8cTG5mUch4KEhkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\elvedin\\source\\repos\\My Store\\My Store.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\nunit\\3.13.2\\nunit.3.13.2.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\nunit3testadapter\\4.1.0\\nunit3testadapter.4.1.0.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\selenium.support\\4.0.1\\selenium.support.4.0.1.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\selenium.webdriver\\4.0.1\\selenium.webdriver.4.0.1.nupkg.sha512",
+    "C:\\Users\\elvedin\\.nuget\\packages\\selenium.webdriver.chromedriver\\96.0.4664.4500\\selenium.webdriver.chromedriver.96.0.4664.4500.nupkg.sha512"
+  ],
+  "logs": []
+}

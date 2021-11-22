@@ -1,0 +1,27 @@
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\NUnit3.TestAdapter.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\NUnit3.TestAdapter.pdb
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\nunit.engine.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\nunit.engine.api.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\nunit.engine.core.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\testcentric.engine.metadata.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\My Store.exe
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\My Store.deps.json
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\My Store.runtimeconfig.json
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\My Store.runtimeconfig.dev.json
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\My Store.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\ref\My Store.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\My Store.pdb
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\Newtonsoft.Json.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\nunit.framework.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\WebDriver.Support.dll
+C:\Users\elvedin\source\repos\My Store\bin\Release\net5.0\WebDriver.dll
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.csproj.AssemblyReference.cache
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.AssemblyInfoInputs.cache
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.AssemblyInfo.cs
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.csproj.CoreCompileInputs.cache
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.csproj.CopyComplete
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.dll
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\ref\My Store.dll
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.pdb
+C:\Users\elvedin\source\repos\My Store\obj\Release\net5.0\My Store.genruntimeconfig.cache

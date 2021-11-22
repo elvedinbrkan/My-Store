@@ -1,0 +1,5 @@
+C:\Users\elvedin\source\repos\My Store\obj\Debug\netcoreapp3.1\My Store.csproj.AssemblyReference.cache
+C:\Users\elvedin\source\repos\My Store\obj\Debug\netcoreapp3.1\My Store.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elvedin\source\repos\My Store\obj\Debug\netcoreapp3.1\My Store.AssemblyInfoInputs.cache
+C:\Users\elvedin\source\repos\My Store\obj\Debug\netcoreapp3.1\My Store.AssemblyInfo.cs
+C:\Users\elvedin\source\repos\My Store\obj\Debug\netcoreapp3.1\My Store.csproj.CoreCompileInputs.cache
